@@ -1,0 +1,19 @@
+
+R
+java:S4973<"<Strings and Boxed types should be compared using "equals()".(êŒ•€
+]	java:S1256"<This block of commented-out lines of code should be removed.(êó›Àıÿÿÿÿ8ºçòéë1
+X	java:S125T"<This block of commented-out lines of code should be removed.(µ–¾İ8À¸ôéë1
+V	java:S125W"<This block of commented-out lines of code should be removed.(Ä‹‚şüÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(ä•ÓÀ
+j
+java:S3252j"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(å´¨Çøÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(¶îÈÉøÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(”§‘‡
+[
+java:S1128">Remove this unused import 'com.sky.constant.PasswordConstant'.(ÿşŠÑ8Ä¸ôéë1
+S
+java:S1128"8Remove this unused import 'com.sky.context.BaseContext'.(îË°òşÿÿÿÿ
+c
+java:S1128"ARemove this unused import 'org.springframework.util.DigestUtils'.(–¤Ìëÿÿÿÿÿ8Ä¸ôéë1
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
